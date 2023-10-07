@@ -19,9 +19,10 @@ In this repository, you will find:
 </p>
 
   
-  <ul dir="auto">
-    <pre> <h4> PizzaConstractor-With Decorators 
-     <li><a href="https://github.com/EfremMic/Decorators/tree/PizzaConstractorWithDecorators/PizzaConstractor">PizzaConstractorWithDecorator</a></li></h4></pre>
-   
-  </ul>
+<ul dir="auto">
+    
+## Projects
+<pre> <h4> PizzaConstractor-With Decorators 
+<lo><a href="https://github.com/EfremMic/Decorators/tree/PizzaConstractorWithDecorators/PizzaConstractor">PizzaConstractorWithDecorator</a></lo></h4></pre>
+</ul>
 </details>
