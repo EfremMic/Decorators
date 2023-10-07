@@ -22,7 +22,6 @@ In this repository, you will find:
 <ul dir="auto">
     
 ## Projects
-<pre> <h4> PizzaConstractor-With Decorators 
-<lo><a href="https://github.com/EfremMic/Decorators/tree/PizzaConstractorWithDecorators/PizzaConstractor">PizzaConstractorWithDecorator</a></lo></h4></pre>
+<pre><h4><a href="https://github.com/EfremMic/Decorators/tree/PizzaConstractorWithDecorators/PizzaConstractor">PizzaConstractorWithDecorator</a></h4></pre>
 </ul>
 </details>
