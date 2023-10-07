@@ -11,9 +11,9 @@ This repository showcases the Decorator Design Pattern implemented in C#. The De
 In this repository, you will find:
 
 - `Component` interface: Defines the base component interface that concrete components and decorators will implement.
-- Concrete component class: Represents the core object to which decorators can be attached.
+- `Concrete component` class: Represents the core object to which decorators can be attached.
 - `Decorator` class: Serves as the base class for all decorators, implementing the `Component` interface.
-- Concrete decorator classes: Implement specific behaviors and add functionalities to the core component.
+- `Concrete decorator` classes: Implement specific behaviors and add functionalities to the core component.
 
 
 </p>
