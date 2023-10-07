@@ -19,7 +19,7 @@ In this repository, you will find:
 
 You can use the Decorator pattern to enhance the behavior of objects in a flexible and reusable way. Here's an example of how to use the Decorator pattern:
 
-```csharp
+
 // Create a core component (e.g., a simple text component)
 Component textComponent = new TextComponent("Hello, World!");
 
