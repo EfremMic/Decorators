@@ -20,7 +20,8 @@ In this repository, you will find:
 
   
   <ul dir="auto">
-    <pre> <h4> PizzaConstractor-With Decorators </h4></pre>
-    <li><a href="https://github.com/EfremMic/Decorators/tree/PizzaConstractorWithDecorators/PizzaConstractor">PizzaConstractorWithDecorator</a></li>
+    <pre> <h4> PizzaConstractor-With Decorators 
+     <li><a href="https://github.com/EfremMic/Decorators/tree/PizzaConstractorWithDecorators/PizzaConstractor">PizzaConstractorWithDecorator</a></li></h4></pre>
+   
   </ul>
 </details>
