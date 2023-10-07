@@ -1,8 +1,8 @@
 
 <pre> <h4> Decorators </h4></pre>
 
-<details>
-  <summary>Click to expand</summary>
+<details open>
+  <summary>Detail</summary>
 
   <p>Welcome to the "Decorators" project. This educational endeavor aims to explore the concept of decorators in programming. Decorators are a powerful design pattern used to add behavior or functionality to objects dynamically.</p>
 
