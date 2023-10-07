@@ -15,20 +15,7 @@ In this repository, you will find:
 - `Decorator` class: Serves as the base class for all decorators, implementing the `Component` interface.
 - Concrete decorator classes: Implement specific behaviors and add functionalities to the core component.
 
-## Usage
 
-You can use the Decorator pattern to enhance the behavior of objects in a flexible and reusable way. Here's an example of how to use the Decorator pattern:
-
-
-// Create a core component (e.g., a simple text component)
-Component textComponent = new TextComponent("Hello, World!");
-
-// Wrap it with decorators to add extra functionality
-Component decoratedComponent = new BoldDecorator(new ItalicDecorator(textComponent));
-
-// Call operations on the decorated component
-string result = decoratedComponent.Render();
-Console.WriteLine(result);
 </p>
 
   
