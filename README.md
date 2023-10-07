@@ -1,6 +1,4 @@
 
-<pre> <h4> Decorators </h4></pre>
-
 <details open>
   <summary>Detail</summary>
 
@@ -9,6 +7,6 @@
   
   <ul dir="auto">
     <pre> <h4> PizzaConstractor-With Decorators </h4></pre>
-    <li><a href="https://github.com/EfremMic/Decorators/tree/PizzaConstractorWithDecorators/PizzaConstractor">#Will be added soon!</a></li>
+    <li><a href="https://github.com/EfremMic/Decorators/tree/PizzaConstractorWithDecorators/PizzaConstractor">PizzaConstractorWithDecorator</a></li>
   </ul>
 </details>
